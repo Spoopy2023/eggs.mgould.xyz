@@ -12,7 +12,7 @@ export default function Home() {
         </p>
       </div>
       <Info>
-        This page isn't finished yet and more eggs will be added over time.
+        This page is&apos;t finished yet and more eggs will be added over time.
       </Info>
 
 
