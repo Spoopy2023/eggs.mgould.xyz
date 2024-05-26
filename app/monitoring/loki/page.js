@@ -12,7 +12,7 @@ export default function Home() {
             </div>
 
             <Warning>
-                Loki requires server port '3100' to be allocated to the container running this egg to start.<br/>The server will not run otherwise.
+                Loki requires server port &apos;3100&apos; to be allocated to the container running this egg to start.<br/>The server will not run otherwise.
             </Warning>
 
             <div className="mb-32 grid text-center justify-center items-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">

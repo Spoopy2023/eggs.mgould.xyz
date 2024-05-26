@@ -12,7 +12,7 @@ export default function Home() {
             </div>
 
             <Warning>
-                 requires server port '2333' to be allocated to the container running this egg to start.<br/>The server will not run otherwise.
+                 requires server port &apos;2333&apos; to be allocated to the container running this egg to start.<br/>The server will not run otherwise.
             </Warning>
 
             <div className="mb-32 grid text-center justify-center items-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
